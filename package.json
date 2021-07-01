@@ -1,0 +1,22 @@
+{
+    "name": "palette-dreams",
+    "displayName": "Palette Dreams",
+    "description": "A nice aesthetic",
+    "version": "1.0.0",
+    "publisher": "JoseUTorres",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Palette Dreams",
+                "uiTheme": "vs",
+                "path": "./themes/Palette Dreams-color-theme.json"
+            }
+        ]
+    }
+}
